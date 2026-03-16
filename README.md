@@ -1,1 +1,1 @@
-<h2>It is useful for making Report Card of board exam students.</h2>
+<h2>It is useful for making Report Card for class 10 Students.</h2>
